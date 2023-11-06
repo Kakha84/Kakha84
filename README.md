@@ -3,7 +3,7 @@
 
 I am Software QA Automation Engineer.
 
-#### My LinkedIn profile:<div id="badges">
+#### My LinkedIn profile:
   <a href="https://www.linkedin.com/in/kakhaber-shalamberidze/">
 
  <img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-06/software%20integrity%20blog.jpg">
