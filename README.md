@@ -1,6 +1,5 @@
-### Hello World
-### "Test smarter, not harder."
-
+## Hello World 🤝
+### "Test smarter, not harder." 🧑‍💻
 I am Software QA Automation Engineer.
 
 #### My LinkedIn profile:
